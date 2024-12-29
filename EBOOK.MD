@@ -78,7 +78,6 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <a href="https://github.com/RMQS">
     GitHub</a>&nbsp;|&nbsp;
    
-&nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
